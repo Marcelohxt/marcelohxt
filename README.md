@@ -7,19 +7,27 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"  <!-- Mudei para o escuro aqui também -->
   />
   <img
     alt="GitHub Contribution Grid Snake Animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" <!-- Aqui também a versão escura -->
   />
+</picture>
 
 ### 🌱 **Formado em Engenharia de Produção | Graduando em Engenharia de Dados**  
 🚀 Apaixonado por **Ciência de Dados**, **Machine Learning** e **Desenvolvimento de Software**.
 
 ### 🛠️ **Tecnologias que uso com frequência:**
-- **Python** | **Django** | **React Native** | **SQL** | **Docker**  
-- **Git** | **GitHub** | **CI/CD** | **Kubernetes**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
@@ -50,13 +58,12 @@
 - [**Controle Parental App**](#) – Monitoramento e gerenciamento de dispositivos dos filhos usando Django e React Native.
 - [**Dashboard de Análise de Dados**](#) – Visualização interativa e insights de dados complexos.
 
+---
+
 ### 📈 **Estatísticas do GitHub**:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcelohxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
-### 📊 **Meus Commits:**
-
-![Commits](https://badgen.net/github/commits/marcelohxt)
 
 ✨ **Contribuições abertas, questões e discussões são sempre bem-vindas!**
