@@ -1,5 +1,19 @@
 # Olá, eu sou o Marcelo 👋
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Grid Snake Animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+
 ### 🌱 **Formado em Engenharia de Produção | Graduando em Engenharia de Dados**  
 🚀 Apaixonado por **Ciência de Dados**, **Machine Learning** e **Desenvolvimento de Software**.
 
@@ -41,5 +55,8 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcelohxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
+### 📊 **Meus Commits:**
+
+![Commits](https://badgen.net/github/commits/marcelohxt)
 
 ✨ **Contribuições abertas, questões e discussões são sempre bem-vindas!**
