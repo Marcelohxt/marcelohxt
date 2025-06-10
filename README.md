@@ -52,7 +52,7 @@
 
 ### 📫 **Como me encontrar:**
 - **GitHub:** [@marcelohxt](https://github.com/marcelohxt)
-- **LinkedIn:** [Marcelo Henrique](https://www.linkedin.com/in/marcelo-henrique)
+- **LinkedIn:** [Marcelo Henrique](https://www.linkedin.com/in/marcelo-henrique-3b594b212/)
 - **Instagram/Facebook/Discord:** [@marcelohxt](https://instagram.com/marcelohxt) | [marcelohxt](https://discord.gg/wagxzStdcR)
 - **Email:** [marcelo_hxt@hotmail.com](mailto:marcelo_hxt@hotmail.com)
 
