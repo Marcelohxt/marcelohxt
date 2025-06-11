@@ -67,15 +67,42 @@
 
 ---
 
-### 📌 **Projetos em destaque:**
+### 📌 **Projetos em destaque**
 - [**Controle Parental App**](#) – Monitoramento e gerenciamento de dispositivos dos filhos usando Django e React Native.
 - [**Dashboard de Análise de Dados**](#) – Visualização interativa e insights de dados complexos.
+- [**MCP‑WHATSAPP**](#) – Servidor Webhook em Python + FastAPI que integra a API do WhatsApp Business, com comandos customizados, persistência de dados e testes automatizados.
+- [**Interface‑Sender**](#) - interface de envio massivo de mensagens no WhatsApp, combinando JavaScript, HTML/CSS e scripts Python para automação.
+- [**Mega‑Senna Predictor**](#) - Simulador de apostas da Mega‑Sena em Django, com cálculo de probabilidades, análise de resultados históricos e dashboard interativo.
+
+### 🌐 **Web Full‑Stack**
+- [**TenoTec Website**](#) -  Site institucional da construtora TenoTec desenvolvido com Next.js + TailwindCSS, pronto para deploy na Vercel.
+- [**RezonTec Website**](#) -  Plataforma corporativa criada em React/Next com design responsivo, animações Framer Motion e dockerização para produção
+
+
+---
+### 📈 **Integração com ERP e Relatórios**
+
+- Painel de Indicadores com **API Sienge** – Desenvolvimento de um painel interativo utilizando Python e Dash/Plotly, 
+  integrado à API do ERP Sienge para coleta automatizada de dados de obras, clientes e faturamento.
+  Construção de relatórios executivos – Geração de relatórios dinâmicos e dashboards automatizados com Pandas, 
+  SQL e Power BI, otimizando a tomada de decisão em projetos de engenharia civil e gestão.
+
+
+
+
+### 📈 **Estatísticas do GitHub**
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcelohxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
-### 📈 **Estatísticas do GitHub**:
+### 📚 **Atualmente pesquisando**
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcelohxt&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+Microsserviços com Python, Docker & Kubernetes
+
+RAG (Retrieval‑Augmented Generation) aplicado a chat‑bots corporativos
+
+Observabilidade em pipelines de dados e modelos de ML
 
 ---
 
