@@ -15,7 +15,7 @@
   />
 </picture>
 
-### 🌱 **Formado em Administração de Empresas | Graduando em Engenharia de Software**  
+### 🌱 **Formado em Administração de Empresas | Estudando Engenharia de Software**  
 🚀 Apaixonado por **Ciência de Dados**, **Machine Learning** e **Desenvolvimento de Software**.
 
 ### 🛠️ **Tecnologias que uso com frequência:**
